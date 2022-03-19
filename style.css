@@ -1,0 +1,87 @@
+body{background-color:#87CEFA}
+h1{color:black;text-align:center;margin:40px}
+h2{margin: 60px 0px;
+    margin-bottom:130px;}
+a{
+            background-color: white;
+            border: 2px solid black;
+            color: black;
+            padding: 5px 10px;
+            text-align: center;
+            display: inline-block;
+            font-size: 20px;
+            margin: 10px 50px;
+            cursor: pointer;
+			text-decoration:solid;
+			border-radius:8px;
+			width:px;
+			height:px;
+        }
+.a1{margin: 15px -75px;margin-right:0px ;margin-left:-30px; margin-bottom:0px;}		
+.a2{padding: px px;margin: 0px -75px;margin-right:0px ;margin-left:-30px;margin-top: 18px;}
+.a3{padding: 5px 19px; padding-right:13px; padding-left:12px;margin: 18px -75px;margin-right:0px ;margin-left:-30px;}
+.img1{padding: -1px 5px;margin: -20px -90px;}
+.img2{padding: 8px 1px;padding-bottom: 15px; margin: -18px -90px; margin-bottom: -37;width: 67px;height: 56px;}
+.img3{padding: -1px 5px;margin: -10px -90px;}
+
+
+
+.a4{
+    border-bottom-width: 0px;
+    padding-right: px;
+    padding-left: 0px;
+    border-right-width: 0px;
+    border-left-width: 0px;
+    margin-top: px;
+    margin-bottom: px;
+    padding-bottom: 0px;
+    border-top-width: 0px;
+    padding-top: 0px;
+    height: 0px;
+}
+
+.a5{
+    border-bottom-width: 0px;
+    padding-right: px;
+    padding-left: 0px;
+    border-right-width: 0px;
+    border-left-width: 0px;
+    margin-top: px;
+    margin-bottom: px;
+    padding-bottom: 0px;
+    border-top-width: 0px;
+    padding-top: 0px;
+    height: 0px;
+}
+
+.a6{
+    border-bottom-width: 0px;
+    padding-right: px;
+    padding-left: 0px;
+    border-right-width: 0px;
+    border-left-width: 0px;
+    margin-top: px;
+    margin-bottom: px;
+    padding-bottom: 0px;
+    border-top-width: 0px;
+    padding-top: 0px;
+    height: 0px;
+}
+
+.line1{ 
+border-left: 5px solid black;
+margin-left:750px;
+margin-top:-270px;
+height:600px;
+}
+
+.h22{
+	margin-left:1070px;
+	
+}
+
+.h23{
+	margin-top:-157px;
+	margin-left:290px;
+	
+}
